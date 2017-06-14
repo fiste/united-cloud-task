@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "type": "movie",
+      "title": "Ninja Turtles",
+      "imgUrl": "ninja-turtles.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Argo",
+      "imgUrl": "argo.jpg"
+    },
+    {
+      "type": "serie",
+      "title": "22",
+      "imgUrl": "22.jpg"
+    },
+    {
+      "type": "movie",
+      "title": "Fury",
+      "imgUrl": "fury.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Live Die Repeat",
+      "imgUrl": "live-die-repeat.jpg"
+    },
+    {
+      "type": "serie",
+      "title": "That Awkward Moment",
+      "imgUrl": "that-awkward-moment.jpg"
+    },
+    {
+      "type": "movie",
+      "title": "Blended",
+      "imgUrl": "blended.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Behaving Badly",
+      "imgUrl": "behaving-badly.jpg"
+    },
+    {
+      "type": "serie",
+      "title": "Begin again",
+      "imgUrl": "begin-again.jpg"
+    },
+    {
+      "type": "movie",
+      "title": "Authors anonymous",
+      "imgUrl": "authors-anonymous.jpg"
+    },
+    {
+      "type": "video",
+      "title": "The angriest man in Brooklyn",
+      "imgUrl": "the-angriest-man-in-brooklyn.jpg"
+    },
+    {
+      "type": "serie",
+      "title": "Spider-man 2",
+      "imgUrl": "spider-man-2.jpg"
+    },
+    {
+      "type": "movie",
+      "title": "American hustle",
+      "imgUrl": "american-hustle.jpg"
+    }
+  ]
+}
